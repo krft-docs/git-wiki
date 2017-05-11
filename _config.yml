@@ -1,10 +1,10 @@
-title: git-wiki-demo
-description: This is a demo of git-wiki theme for jekyll
+title: KRFT Docs
+description: Documentation for KRFT
 show_downloads: true
 comments: true
-logo_url: https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1122px-Wikipedia-logo-v2.svg.png
+logo_url: http://uploads.webflow.com/56fbb3ef4ea8b3bd6a5b18b7/5894a6270b064a800fc33cc1_krft.jpg
 google_analytics:
-git_branch: gh-pages
+git_branch: master
 theme: 
 use_github_wiki: false
 use_prose_io: true
